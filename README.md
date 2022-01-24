@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1> hi! </h1>
+Thank you for passing by, my name is sow and I love programming!
 
-<!--
-**ImSow/ImSow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🔮 General stuff </h3>
 
-Here are some ideas to get you started:
+ - 13y 
+ - BR
+ - He/Him
+ - Batch | C# | Js
+ <h3>🔮 My projects</h3>
+ 
+ - [🍬Sweety](https://discord.gg/jsyFQckvbp), a pc / minecraft tweaker made in batch.
+ - My two personal websites
+  <h3>🔮 Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![sow- General Stats](https://github-readme-stats.vercel.app/api?username=ImSow&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSow&layout=compact&theme=midnight-purple)
