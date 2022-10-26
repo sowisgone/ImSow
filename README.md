@@ -3,13 +3,13 @@ Thank you for passing by, my name is sow and I love programming!
 
 <h3>🔮 General stuff </h3>
 
- - 13y 
+ - 14y 
  - BR
  - He/Him
  - Batch | C# | Js
  <h3>🔮 My projects</h3>
  
- - [🍬Sweety](https://discord.gg/jsyFQckvbp), a pc / minecraft tweaker made in batch.
+ - [🍬Sweety](sweeety.tk), a pc / minecraft tweaker made in batch.
  - My two personal websites
   <h3>🔮 Stats</h3>
 
